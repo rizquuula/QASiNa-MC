@@ -2,6 +2,11 @@
 
 Question Answering Sirah Nabawiyah for Multiple Choices
 
+
+<p align="center">
+  <img src="https://github.com/rizquuula/QASiNa-MC/blob/main/example.png?raw=true" alt="Diagram" style="height: 300px;">
+</p>
+
 ## How to Obtain The Dataset
 
 This is part of my thesis for completing my Master's studies in Informatics at ITB. The process of creating this dataset involved a previously shared dataset titled [QASiNa-RC](https://github.com/rizquuula/QASiNa), which focuses on a reading comprehension dataset. The development of a reading comprehension task dataset resulting in QASiNa-RC is still insufficient to evaluate the performance of Generative-LLMs, especially in answering questions without context. Therefore, the creation of a new type of dataset supporting context-free questions in a multiple-choice format was carried out and named *Question Answering Sirah Nabawiyah for Multiple Choices* (QASiNa-MC).
